@@ -17,4 +17,4 @@ int main() {
         leftSum += arr[i];
     }
     return 0;
-}ithu 11
+}
